@@ -49,4 +49,3 @@ def get_zodiac_name(year, month, day):
 
 if __name__ == '__main__':
     main()
-    
